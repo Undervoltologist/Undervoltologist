@@ -13,9 +13,10 @@ tools weren't mainstream when I started.
 - **Reverse engineered the Legion Go 2's fan control (2026)** at the request of the
   LegionFanControl developer. My findings became [LeGo2 Fan Control](https://github.com/Rodpad/LeGo2-Fan-Control),
   a fan control app for SteamOS and Windows.
-- **Reverse engineered the ASUS EC mailbox** and contributed it to [PawnIO](https://pawnio.eu/),
-  where it was merged. That let [G-Helper](https://g-helper.com/experimental/) drop unsafe drivers
-  and an unreliable workaround for fan control on ASUS laptops.
+- **Reverse engineered the ASUS EC mailbox** and contributed it to [PawnIO](https://pawnio.eu/)
+  ([PR #58](https://github.com/namazso/PawnIO.Modules/pull/58)), where it was merged. That let
+  [G-Helper](https://g-helper.com/experimental/) drop unsafe drivers and an unreliable
+  workaround for fan control on ASUS laptops.
 - **Built [ITE-EC-Reader](https://github.com/Undervoltologist/ITE-EC-Reader)**, my own read/write
   tool for live inspection and reverse engineering of ITE EC chips.
 - **Fixed fan control on newer ASUS EC firmware** with [zephyrusfanfix-24-25](https://github.com/Undervoltologist/zephyrusfanfix-24-25),
@@ -33,7 +34,7 @@ tools weren't mainstream when I started.
 ### 🧠 What I work on
 - **Firmware & low-level:** Embedded Controllers, BIOS/UEFI, firmware reverse engineering (Ghidra)
 - **Thermal design:** fan curve/table design, fan control logic, heatsink modding
-- **Acoustics:** speaker & headphone tuning, harmonics
+- **Acoustics & audio:** speaker & headphone tuning, harmonics, music production (DAWs, audio interfaces), playing instruments
 - **Also:** photography & videography since I was 4 📷
 
 ### 📫 Contact
